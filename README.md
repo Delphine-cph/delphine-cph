@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Delphine-cph/delphine-cph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Delphine, I'm a Web Developer Fullstack from Paris 🇫🇷.
 
-Here are some ideas to get you started:
+<ul>
+The tools I work with are:
+  <li>Ruby On Rails</li>
+  <li>Stimulus, JavaScript</li>
+  <li>CSS and Figma for the design</li>
+  <li>SQL</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to contribute to the advancement of the health field 🩺.
+That's why, my end of bootcamp project @LeWagon is an application for liberal nurses. 
