@@ -11,4 +11,4 @@ The tools I work with are:
 </ul>
 
 I want to contribute to the advancement of the health field 🩺.
-That's why, my end of bootcamp project @LeWagon is an application for liberal nurses. 
+That's why, my end of bootcamp project @LeWagon is an application for liberal nurses : TooCare.
