@@ -7,6 +7,7 @@ The tools I work with are:
   <li>Ruby On Rails</li>
   <li>Stimulus, JavaScript</li>
   <li>CSS and Figma for the design</li>
+  <li>Bootstrap</li>
   <li>SQL</li>
 </ul>
 
