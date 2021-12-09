@@ -4,8 +4,10 @@ My name is Delphine, I'm a Web Developer Fullstack from Paris 🇫🇷.
 
 The tools I work with are:
 <ul>
+  <li>Ruby</li>
   <li>Ruby On Rails</li>
-  <li>Stimulus, JavaScript</li>
+  <li>Stimulus</li>
+  <li>JavaScript</li>
   <li>CSS and Figma for the design</li>
   <li>Bootstrap</li>
   <li>SQL</li>
