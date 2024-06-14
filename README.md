@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Delphine, I'm a Web Developer Fullstack from Paris 🇫🇷.
+My name is Delphine, I'm a Web Developer Fullstack from Marseille 🇫🇷.
 
 The tools I work with are:
 <ul>
